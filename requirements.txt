@@ -8,7 +8,7 @@ scipy>=1.11
 # torch-geometric>=2.4
 
 # REST API
-fastapi>=0.104
+fastapi>=0.136.1
 uvicorn[standard]>=0.24
 pydantic>=2.4
 
