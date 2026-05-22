@@ -9,7 +9,7 @@ scipy>=1.11
 
 # REST API
 fastapi>=0.104
-uvicorn[standard]>=0.24
+uvicorn[standard]>=0.47.0
 pydantic>=2.4
 
 # Kafka (optional, required for production deployment)
