@@ -19,7 +19,7 @@ pydantic>=2.4
 pandas>=2.1
 
 # Logging
-loguru>=0.7
+loguru>=0.7.3
 
 # Testing
 pytest>=7.4
