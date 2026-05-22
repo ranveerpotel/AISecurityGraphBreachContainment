@@ -16,7 +16,7 @@ pydantic>=2.4
 # kafka-python>=2.0
 
 # Data utilities
-pandas>=2.1
+pandas>=3.0.3
 
 # Logging
 loguru>=0.7
