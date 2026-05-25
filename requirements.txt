@@ -23,7 +23,7 @@ loguru>=0.7
 
 # Testing
 pytest>=7.4
-pytest-cov>=4.1
+pytest-cov>=7.1.0
 
 # Optional: Neo4j graph database backend
 # neo4j>=5.14
